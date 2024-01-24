@@ -1,0 +1,120 @@
+# # torch>=2.1.0
+# # transformers
+# # omegaconf
+# # pillow
+# # imageio[ffmpeg]
+# # PyMCubes
+# # trimesh
+#
+#
+# annotated-types
+# antlr4-python3-runtime==4.9.3
+# anyio==4.2.0
+# certifi==2023.11.17
+# charset-normalizer==3.3.2
+# click==8.1.7
+# colorama==0.4.6
+# exceptiongroup==1.2.0
+# fastapi==0.109.0
+# filelock==3.13.1
+# fsspec==2023.12.2
+# h11==0.14.0
+# huggingface-hub==0.20.2
+# idna==3.6
+# imageio==2.33.1
+# imageio-ffmpeg==0.4.9
+# Jinja2==3.1.2
+# MarkupSafe==2.1.3
+# mpmath==1.3.0
+# networkx==3.2.1
+# numpy==1.26.3
+# omegaconf==2.3.0
+# packaging==23.2
+# pillow==10.2.0
+# pip==23.3.2
+# psutil==5.9.7
+# pydantic==2.5.3
+# pydantic-core==2.14.6
+# pyglet==2.0.10
+# PyMCubes==0.1.4
+# python-multipart==0.0.6
+# PyYAML==6.0.1
+# regex==2023.12.25
+# requests==2.31.0
+# safetensors==0.4.1
+# scipy==1.11.4
+# setuptools==65.5.1
+# sniffio==1.3.0
+# starlette==0.35.1
+# sympy==1.12
+# tokenizers==0.15.0
+# tqdm==4.66.1
+# transformers==4.36.2
+# trimesh==4.0.8
+# typing-extensions==4.9.0
+# urllib3==2.1.0
+# uvicorn==0.25.0
+# wheel==0.38.4
+# torch==2.1.2
+# torchvision==0.16.2
+# torchaudio== 2.1.2
+# --index-url https://download.pytorch.org/whl/cu118
+
+# torch>=2.1.0
+# transformers
+# omegaconf
+# pillow
+# imageio[ffmpeg]
+# PyMCubes
+# trimesh
+
+# annotated_types==0.6.0
+antlr4-python3-runtime
+anyio
+certifi
+charset-normalizer
+click
+colorama
+exceptiongroup
+fastapi
+filelock
+fsspec
+h11
+huggingface-hub
+idna
+imageio
+imageio-ffmpeg
+Jinja2
+MarkupSafe
+mpmath
+#networkx==3.2.1
+networkx
+#numpy==1.26.3
+numpy
+omegaconf
+packaging
+pillow
+pip
+psutil
+pydantic
+pydantic-core
+# pyglet==1.5.11
+PyMCubes
+python-multipart
+PyYAML
+regex
+requests
+safetensors
+scipy
+setuptools
+sniffio
+starlette
+sympy
+tokenizers
+tqdm
+transformers
+trimesh
+typing-extensions
+urllib3
+uvicorn
+wheel
